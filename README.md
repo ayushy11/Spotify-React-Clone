@@ -3,16 +3,17 @@
 This app is a demo replica of Spotify (using their spotify api) that I built in order to learn ReactJS.
 
 Hosting URL: https://spotify-clone-1be20.web.app
+
 ## Project Screen Shot(s)
 
 ### Login Page
 
-![alt text](https://github.com/fvukojevic/Spotify-React-Clone/blob/master/blob/login.png)
+![alt text](https://github.com/ayushy11/Spotify-React-Clone/blob/master/login.png)
 
 ### Main Page
 
-![alt text](https://github.com/fvukojevic/Spotify-React-Clone/blob/master/blob/body.png)
-![alt text](https://github.com/fvukojevic/Spotify-React-Clone/blob/master/blob/body.png)
+![alt text](https://github.com/ayushy11/Spotify-React-Clone/blob/master/main1.png)
+![alt text](https://github.com/ayushy11/Spotify-React-Clone/blob/master/main2.png)
 
 ## Installation and Setup Instructions
 
